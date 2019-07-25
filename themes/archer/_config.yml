@@ -39,16 +39,16 @@ about:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: 水镜
+SEO_title: 千年门外汉
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: 水镜
+main_title: 千年门外汉
 # subtitle
-subtitle: 一切皆虚幻
+subtitle: 一直在入门，从未能超越
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
