@@ -29,26 +29,28 @@ social:
   others: 
   rss: 
 # friends
-friends:
+friends :
   Site2See: //github.com/sou1x/Site2See/issues/1
+  Words2Learn: //github.com/sou1x/word2Learn/issues
   Speech2Text: //github.com/sou1x/Speech2Text/issues
   SportRecord: //github.com/sou1x/SportRecord/issues/1
+  
 about:
   enable: true
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: 千年门外汉
+SEO_title: 金风细雨楼
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: 千年门外汉
+main_title: 金风细雨楼
 # subtitle
-subtitle: 一直在入门，从未能超越
+subtitle: 说英雄，谁是英雄
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
