@@ -31,8 +31,11 @@ social:
 # friends
 friends :
   Site2See: //github.com/sou1x/Site2See/issues/2
+  -----: //
   Words2Learn: //github.com/sou1x/word2Learn/issues
+  --------: //
   Speech2Text: //github.com/sou1x/Speech2Text/issues
+  --: //
   SportRecord: //github.com/sou1x/SportRecord/issues/1
   
 about:
