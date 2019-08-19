@@ -5,6 +5,11 @@ tags: todo
 top: true
 ---
 
+- [ ] 研究BP如何抓HTTPs包
+- [ ] 写个vim教程（行首行尾插入字符等）
+
+-----------以下可能都是假目标------------
+
 - [ ] LeetCode刷题
 - [ ] 学习Node
 - [ ] Coursera找个课程学习下
