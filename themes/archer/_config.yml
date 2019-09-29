@@ -30,15 +30,15 @@ social:
   rss: 
 # friends
 friends :
-  Site2See: //github.com/sou1x/Site2See/issues/2
+  Site2See: //github.com/sou1x/Site2See/issues/3#new_comment_field
   -----: //
-  Words2Learn: //github.com/sou1x/word2Learn/issues
+  HearRecord: //github.com/sou1x/word2Learn/issues/2/#new_comment_field
   --------: //
   Speech2Text: //github.com/sou1x/Speech2Text/issues
   --: //
-  SportRecord: //github.com/sou1x/SportRecord/issues/2
+  SportRecord: //github.com/sou1x/SportRecord/issues/3#new_comment_field
   -: //
-  ShitRecord: //github.com/sou1x/ShitRecord/issues/1
+  ShitRecord: //github.com/sou1x/ShitRecord/issues/2#new_comment_field
 about:
   enable: true
   image: '/intro/about-bg.jpg'
